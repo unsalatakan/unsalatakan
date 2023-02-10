@@ -1,9 +1,5 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Atakan, a full-time Full-Stack Developer 👨‍💻 </div>  
+### <div align="center">Hi, I'm Atakan, a full-time Full-Stack Developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working at company called SUNNY Electronics.  
@@ -36,7 +32,7 @@
 
 </td><td valign="top" width="33%">
 
-<img src="https://1000logos.net/wp-content/uploads/2016/10/Android-Logo.png" align="left" height="200" width="" />  
+<img src="https://1000logos.net/wp-content/uploads/2016/10/Android-Logo.png" align="left" height="180" width="" />  
 
 
 </td><td valign="top" width="33%">
